@@ -4,22 +4,22 @@ This project focuses on capturing and analyzing network traffic to detect unusua
 It demonstrates practical SOC analyst skills using industry-standard tools.
 
 Objectives
-Capture live network traffic
-Analyze packets and protocols
-Identify abnormal and suspicious behavior
-Detect basic attack patterns using IDS rules
+Capture live network traffic.
+Analyze packets and protocols.
+Identify abnormal and suspicious behavior.
+Detect basic attack patterns using IDS rules.
 
 Tools & Technologies 
-Wireshark – Packet inspection and protocol analysis
-tcpdump – Command-line packet capture
-Snort – Intrusion Detection System (IDS)
-windows
+Wireshark – Packet inspection and protocol analysis.
+tcpdump – Command-line packet capture.
+Snort – Intrusion Detection System (IDS).
+windows.
 
 Implementation Steps
- Traffic Capture
- Traffic Analysis
- Suspicious Activity Detection
- Intrusion Detection with Snort
+ Traffic Capture.
+ Traffic Analysis.
+ Suspicious Activity Detection.
+ Intrusion Detection with Snort.
 
 
 
