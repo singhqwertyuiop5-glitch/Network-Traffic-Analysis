@@ -15,21 +15,6 @@ tcpdump – Command-line packet capture
 Snort – Intrusion Detection System (IDS)
 windows
 
-Project Structure
-network-traffic-analysis/
-│
-├── captures/
-│   └── traffic.pcap
-│
-├── snort-rules/
-│   └── local.rules
-│
-├── screenshots/
-│   ├── wireshark-analysis.png
-│   └── snort-alerts.png
-│
-└── README.md
-
 Implementation Steps
  Traffic Capture
  Traffic Analysis
